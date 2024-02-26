@@ -1,0 +1,42 @@
+.listeImage {
+   display: flex;
+   background-color: rgb(233, 233, 241);
+}
+.listeImage > img{
+    height: 50px;
+    width: 60px;
+    margin-right: 10px;
+}
+.listeImage{
+    width: 100%;
+    padding: 5px;
+    margin-top: 5px;
+    font-size: 13px;
+}
+.reponseListe{
+    float: right;
+    margin: 10px 0px;
+    background-color: rgb(200, 199, 209);
+    padding: 5px;
+    border-radius: 10px;
+    font-size: 13px;
+}
+.agentCss{
+    background-color: rgb(207, 223, 205);
+    padding: 4px;
+    font-size: 12px;
+    font-weight: 700;
+    width: 100%;
+}
+.coCSS{
+    background-color: rgb(255, 255, 255);
+    padding: 4px;
+    font-size: 12px;
+    font-weight: 700;
+    box-shadow: 1px 1px;
+    width: 100%;
+}
+.deleteMessage{
+    text-align: right;
+    float: right;
+}
